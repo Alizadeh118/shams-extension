@@ -1,6 +1,0 @@
-{
-  "name": "Shams",
-  "description": "Chrome extension to convert Gregorian date to Persian date",
-  "version": "1.0",
-  "manifest_version": 3
-}
